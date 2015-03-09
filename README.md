@@ -50,9 +50,6 @@ It comes pre-configured with the following bundles:
   * **SensioDistributionBundle** (in dev/test env) - Adds functionality for
     configuring and working with Symfony distributions
 
-  * [**SensioGeneratorBundle**][13] (in dev/test env) - Adds code generation
-    capabilities
-
 All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
@@ -66,4 +63,3 @@ Enjoy!
 [10]: http://symfony.com/doc/2.6/cookbook/email.html
 [11]: http://symfony.com/doc/2.6/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.6/cookbook/assetic/asset_management.html
-[13]: http://symfony.com/doc/2.6/bundles/SensioGeneratorBundle/index.html
